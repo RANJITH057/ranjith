@@ -1,0 +1,27 @@
+.wrapper {
+	background-color: #4783f1;
+	border: 1px solid rgb(255, 255, 255);
+	border-radius: 5px;
+	width: 400px;
+	padding: 20px 10px 0px 10px;
+}
+.btn {
+	height: 40px;
+	width: 40%;
+	color: #ffffff;
+	background-color: coral;
+	border: 1px solid #ffffff;
+	border-radius: 5px;
+	margin: 20px 0 20px 0;
+}
+.inp {
+	height: 30px;
+	border: 1px solid #ffffff;
+	width: 100%;
+	border-radius: 5px;
+}
+text {
+	color: #ffffff;
+	text-overflow: ellipsis;
+	font-weight: 600;
+}
